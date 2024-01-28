@@ -1,3 +1,5 @@
-const addTwo = (num1,num2)=>{
-//     return num1 + num2
+let index = 0
+// while(index <= 10){
+//     console.log(`Value of the index is  ${index}`)
+//     index+=2
 // }
